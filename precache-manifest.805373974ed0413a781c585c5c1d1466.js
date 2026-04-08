@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc6410b21deb696ee3b9f2eadd4328df",
+    "revision": "90277256fab229e8e0f72218f702f166",
     "url": "/index.html"
   },
   {
-    "revision": "0ab235c324f437db3f2a",
-    "url": "/static/css/main.cdb5cb51.chunk.css"
+    "revision": "b9bbb6884aec6cc91e13",
+    "url": "/static/css/2.bcff801a.chunk.css"
   },
   {
-    "revision": "c703ed236cc61ab3550b",
-    "url": "/static/js/2.673d7983.chunk.js"
+    "revision": "fca5afdad8fbb3008db9",
+    "url": "/static/css/main.3a325103.chunk.css"
   },
   {
-    "revision": "0ab235c324f437db3f2a",
-    "url": "/static/js/main.cf342790.chunk.js"
+    "revision": "b9bbb6884aec6cc91e13",
+    "url": "/static/js/2.04ec5553.chunk.js"
+  },
+  {
+    "revision": "fca5afdad8fbb3008db9",
+    "url": "/static/js/main.97e351b8.chunk.js"
   },
   {
     "revision": "b449bc4e6a1ee18b7675",
@@ -56,16 +60,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "f872e88840d630a15573377823e0f615",
+    "url": "/static/media/TeamLeadImg.f872e888.png"
+  },
+  {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
   },
   {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
-  },
-  {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "e83f8db1c3323a774d25d876f60e7322",
+    "url": "/static/media/bardahl.e83f8db1.png"
+  },
+  {
+    "revision": "40832078fe4b84e5daa453cf88c2e92e",
+    "url": "/static/media/blockquote.40832078.svg"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -84,12 +96,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.5f915405.png"
   },
   {
+    "revision": "9205f97778d1d7176c3dbcd9fdbcb1a6",
+    "url": "/static/media/cstb.9205f977.png"
+  },
+  {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "/static/media/data_science.ebf35d7f.svg"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
     "url": "/static/media/deeplearning_ai_logo.75a7107b.png"
+  },
+  {
+    "revision": "b1bb1f514b820f32d0fa748cc8dc7ca2",
+    "url": "/static/media/desom.b1bb1f51.png"
   },
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
@@ -176,28 +196,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fullstack.fce60807.svg"
   },
   {
-    "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
-    "url": "/static/media/gcp_logo.0ee7e8c9.png"
-  },
-  {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "/static/media/github_logo.6eeb2e81.png"
   },
   {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
-  },
-  {
     "revision": "a6addc3fb6605480614b992ede8cd434",
     "url": "/static/media/googleAssistant.a6addc3f.svg"
-  },
-  {
-    "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
-    "url": "/static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "/static/media/iiitk_logo.571a8584.png"
   },
   {
     "revision": "11c37f92efd02a19b2a8dfe599911d6a",
@@ -220,28 +224,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ilo_contacto.48507ce7.png"
   },
   {
-    "revision": "29152cf756a1facead5393c32e373371",
-    "url": "/static/media/intel_logo.29152cf7.jpg"
-  },
-  {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/static/media/iu_logo.60ed0bd3.png"
-  },
-  {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/static/media/jsFramework.5b4a6449.svg"
-  },
-  {
-    "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
-    "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
   {
-    "revision": "069938a84edd6ebf383c318e9feb5d4c",
-    "url": "/static/media/muffito_logo.069938a8.png"
+    "revision": "d309ea327278cffd9de512b5462fc03d",
+    "url": "/static/media/mcf.d309ea32.png"
+  },
+  {
+    "revision": "cc800378b7f199b019c160f332fb9733",
+    "url": "/static/media/medl.cc800378.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
@@ -252,6 +248,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/portfolio.414dfbd9.gif"
   },
   {
+    "revision": "d9f4945643a1de08e2cac6019cc88b7d",
+    "url": "/static/media/post.d9f49456.png"
+  },
+  {
     "revision": "5faf790badc18fa9030f94836ece1df1",
     "url": "/static/media/programmer.5faf790b.svg"
   },
@@ -260,12 +260,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/projects_image.b8ba9487.svg"
   },
   {
-    "revision": "71408db71465afd742233e4a96f06526",
-    "url": "/static/media/pwa.71408db7.png"
+    "revision": "0a93dd044a86a7d3115fc6b19ef55b36",
+    "url": "/static/media/qms.0a93dd04.png"
   },
   {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "/static/media/stanford_logo.2c497738.png"
+    "revision": "95b6cab22d47f33bf6e649b6bc90d396",
+    "url": "/static/media/socle.95b6cab2.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
@@ -276,11 +276,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
   },
   {
-    "revision": "0993e3246bf5146154391a0afef79b03",
-    "url": "/static/media/tiktok_logo.0993e324.png"
-  },
-  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "80bad204b88f22b1c7072cbb75050bc2",
+    "url": "/static/media/ys.80bad204.png"
   }
 ]);
