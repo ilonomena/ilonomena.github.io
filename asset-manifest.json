@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a325103.chunk.css",
-    "main.js": "/static/js/main.97e351b8.chunk.js",
-    "main.js.map": "/static/js/main.97e351b8.chunk.js.map",
+    "main.css": "/static/css/main.01175201.chunk.css",
+    "main.js": "/static/js/main.7bd5a980.chunk.js",
+    "main.js.map": "/static/js/main.7bd5a980.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0908954.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0908954.js.map",
     "static/css/2.bcff801a.chunk.css": "/static/css/2.bcff801a.chunk.css",
-    "static/js/2.04ec5553.chunk.js": "/static/js/2.04ec5553.chunk.js",
-    "static/js/2.04ec5553.chunk.js.map": "/static/js/2.04ec5553.chunk.js.map",
+    "static/js/2.4f258224.chunk.js": "/static/js/2.4f258224.chunk.js",
+    "static/js/2.4f258224.chunk.js.map": "/static/js/2.4f258224.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c8a600a2631fae534212503bf88628d1.js": "/precache-manifest.c8a600a2631fae534212503bf88628d1.js",
+    "precache-manifest.0d2c208306806213cd7cc23ad81f7724.js": "/precache-manifest.0d2c208306806213cd7cc23ad81f7724.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bcff801a.chunk.css.map": "/static/css/2.bcff801a.chunk.css.map",
-    "static/css/main.3a325103.chunk.css.map": "/static/css/main.3a325103.chunk.css.map",
+    "static/css/main.01175201.chunk.css.map": "/static/css/main.01175201.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/EC.jpg": "/static/media/EC.9fb714c3.jpg",
     "static/media/TeamLeadImg.png": "/static/media/TeamLeadImg.f872e888.png",
@@ -34,6 +34,7 @@
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
+    "static/media/fregate.jpg": "/static/media/fregate.9f27f40d.jpg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
@@ -61,8 +62,8 @@
   "entrypoints": [
     "static/js/runtime-main.d0908954.js",
     "static/css/2.bcff801a.chunk.css",
-    "static/js/2.04ec5553.chunk.js",
-    "static/css/main.3a325103.chunk.css",
-    "static/js/main.97e351b8.chunk.js"
+    "static/js/2.4f258224.chunk.js",
+    "static/css/main.01175201.chunk.css",
+    "static/js/main.7bd5a980.chunk.js"
   ]
 }
