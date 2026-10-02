@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5920eece02d3f580d93030dcaa64283",
+    "revision": "a4d478ce4548dffd550401225f0597d2",
     "url": "/index.html"
   },
   {
-    "revision": "ddeb5638452e3ea14472",
+    "revision": "99e0ee6ee47589dfb619",
     "url": "/static/css/2.bcff801a.chunk.css"
   },
   {
-    "revision": "3c4ca0eb9d9e3f777fda",
-    "url": "/static/css/main.a4ec8a8a.chunk.css"
+    "revision": "eda49ded896ab798e782",
+    "url": "/static/css/main.7b2428db.chunk.css"
   },
   {
-    "revision": "ddeb5638452e3ea14472",
-    "url": "/static/js/2.3fda2ab5.chunk.js"
+    "revision": "99e0ee6ee47589dfb619",
+    "url": "/static/js/2.3092dc17.chunk.js"
   },
   {
-    "revision": "3c4ca0eb9d9e3f777fda",
-    "url": "/static/js/main.5c6e2c5b.chunk.js"
+    "revision": "eda49ded896ab798e782",
+    "url": "/static/js/main.6aaa3230.chunk.js"
   },
   {
     "revision": "b449bc4e6a1ee18b7675",
@@ -68,10 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/address_image.16559172.svg"
   },
   {
-    "revision": "dcd6dee2bd7458a4a576dc131506fd83",
-    "url": "/static/media/animated_logo.dcd6dee2.svg"
-  },
-  {
     "revision": "e83f8db1c3323a774d25d876f60e7322",
     "url": "/static/media/bardahl.e83f8db1.png"
   },
@@ -80,40 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blockquote.40832078.svg"
   },
   {
-    "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
-    "url": "/static/media/blogs_image.058eca4c.svg"
-  },
-  {
-    "revision": "cacbc42b661f39344af81c631d8d36a9",
-    "url": "/static/media/cloud_infrastructure.cacbc42b.svg"
-  },
-  {
-    "revision": "fee92c18b1cfbd1faa704c51047f113d",
-    "url": "/static/media/codeInLogo.fee92c18.png"
-  },
-  {
-    "revision": "5f915405511f649dad433a6db9adbff4",
-    "url": "/static/media/contactMail.5f915405.png"
-  },
-  {
     "revision": "9205f97778d1d7176c3dbcd9fdbcb1a6",
     "url": "/static/media/cstb.9205f977.png"
   },
   {
-    "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
-    "url": "/static/media/data_science.ebf35d7f.svg"
-  },
-  {
-    "revision": "75a7107b7739a46950f66de29779eb52",
-    "url": "/static/media/deeplearning_ai_logo.75a7107b.png"
-  },
-  {
     "revision": "b1bb1f514b820f32d0fa748cc8dc7ca2",
     "url": "/static/media/desom.b1bb1f51.png"
-  },
-  {
-    "revision": "3e23ca14e7a7c8a7b63d255466749000",
-    "url": "/static/media/developerActivity.3e23ca14.svg"
   },
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
@@ -188,24 +156,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "2936ce95f550e3feef7230ea543a4b60",
-    "url": "/static/media/feelingProud.2936ce95.svg"
-  },
-  {
     "revision": "9f27f40de4a5b8736f6671cf4a933008",
     "url": "/static/media/fregate.9f27f40d.jpg"
-  },
-  {
-    "revision": "fce6080726685cabdb4f75a0d8018325",
-    "url": "/static/media/fullstack.fce60807.svg"
   },
   {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "/static/media/github_logo.6eeb2e81.png"
   },
   {
-    "revision": "a6addc3fb6605480614b992ede8cd434",
-    "url": "/static/media/googleAssistant.a6addc3f.svg"
+    "revision": "dbf80288b65d9bde9809de6091ec0997",
+    "url": "/static/media/ilo-dark.dbf80288.webp"
   },
   {
     "revision": "11c37f92efd02a19b2a8dfe599911d6a",
@@ -232,14 +192,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ilo_contacto.48507ce7.png"
   },
   {
-    "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
-    "url": "/static/media/jsFramework.5b4a6449.svg"
-  },
-  {
-    "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
-    "url": "/static/media/manOnTable.83ac24fb.svg"
-  },
-  {
     "revision": "d309ea327278cffd9de512b5462fc03d",
     "url": "/static/media/mcf.d309ea32.png"
   },
@@ -248,20 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/medl.cc800378.png"
   },
   {
-    "revision": "95a12a2b8c3149cce2175679755c4b4d",
-    "url": "/static/media/nptel_logo.95a12a2b.png"
-  },
-  {
-    "revision": "414dfbd98516b39255a3e22ed90b3f7d",
-    "url": "/static/media/portfolio.414dfbd9.gif"
-  },
-  {
     "revision": "d9f4945643a1de08e2cac6019cc88b7d",
     "url": "/static/media/post.d9f49456.png"
-  },
-  {
-    "revision": "5faf790badc18fa9030f94836ece1df1",
-    "url": "/static/media/programmer.5faf790b.svg"
   },
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
@@ -274,18 +214,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "95b6cab22d47f33bf6e649b6bc90d396",
     "url": "/static/media/socle.95b6cab2.png"
-  },
-  {
-    "revision": "6ac91b161c2c9934a44f72d75d18142d",
-    "url": "/static/media/talksCardBack.6ac91b16.svg"
-  },
-  {
-    "revision": "3fa5424232370e3d049c9555d9c440a4",
-    "url": "/static/media/talksCardBackAlt.3fa54242.svg"
-  },
-  {
-    "revision": "d63630893eb8cb64af65f395d393c481",
-    "url": "/static/media/ui_ux_design.d6363089.svg"
   },
   {
     "revision": "80bad204b88f22b1c7072cbb75050bc2",
